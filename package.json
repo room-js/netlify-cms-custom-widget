@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "netlify-cms-custom-widget",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "An example of a custom widget for Netlify CMS",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Yuri Drabik <yurist38@mail.ru>",
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^16.0.0",
     "@ckeditor/ckeditor5-react": "^2.0.0",
@@ -40,9 +40,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/room-js/netlify-cms-custom-widget"
   }
 }
